@@ -1,1 +1,1 @@
-This Repository Contains the Solutions to CodeSignals Company Challenges.
+This Repository Contains the Solutions to CodeSignal Company Challenge Problems. I tried my best to come up best solutions if any mistake please semd the updated code/correct code on the comment so i can updated on the repository which can be helpful for others.
